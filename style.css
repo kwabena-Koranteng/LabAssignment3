@@ -1,0 +1,195 @@
+
+*{
+	box-sizing: border-box;
+}
+
+
+body {
+	background-color: #ffff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	margin: 0;
+	font-family:verdana;
+	padding:0;
+	 
+}
+.body {
+	background-color: #ffff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	margin: 0;
+	font-family:verdana;
+	padding:0;
+	background: url(images/pic2.jpg);
+    background-size: cover;
+    background-position: center;
+	 
+}
+
+.container {
+	background-color: #000;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+	overflow: hidden;
+	width: 400px;
+	max-width: 100%;
+	border-color:#900C3F;
+	height:57.5em;
+}
+
+.header {
+	background:transparet;
+	padding: 20px 40px;
+	color:#fff;
+	display:block;
+	text-align:center;
+}
+
+.header h2 {
+	margin: 0;
+}
+
+.form {
+	padding: 30px 40px;	
+}
+
+.form-control {
+	margin-bottom: 10px;
+	padding-bottom: 20px;
+	position: relative;
+}
+
+.form-control label {
+	display: inline-block;
+	margin-bottom: 5px;
+	color:#fff;
+}
+
+.form-control input {
+	border: none;
+	display: block;
+	border-bottom: 1px solid #fff;
+	font-family: inherit;
+	font-size: 14px;
+	padding: 10px;
+	width: 100%;
+	background:transparent;
+	color: #fff;
+}
+
+.form button {
+	border: none;
+    outline: none;
+    height: 40px;
+    background: #fb2525;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+	width:100%
+}
+
+.first-section{
+	padding:0;
+	margin:0;
+	text-align:center;	
+}
+
+.first-section h1{
+	margin:0;
+	padding:0;
+	
+}
+
+.other-headings{
+	font-size:large;
+	font-family: verdana;
+	border-bottom:0.2em solid ;
+	display:flex;
+	color: #fff;
+
+}
+.right {
+  position:absolute;
+  right: 100px; 
+}
+
+.contain{
+  display: inline; 
+  width: 110px;
+  height: 110px;
+  white-space:nowrap;
+  text-align:center;
+  
+}
+.cont{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+margin:0;
+padding:0;
+color: #fff;
+}
+
+#resumecontainer{
+background-color:black;
+text-align:left;
+padding:20px;
+margin:20px auto;
+min-width:300px;
+max-width:600px;
+position:relative;
+border-top:5px solid red;
+border-bottom:10px solid red;
+
+}
+
+#resumecontainer{
+padding:20px;
+margin:20px;
+max-width:1000px;
+}
+select{
+	width:100%;
+	background:transparent;
+	color:#fff;
+}
+
+option{
+	background-color:black;
+}
+ .other{
+	 color:#fff;
+ }
+.name1{
+	font-size:25px;
+	font-weight:bold;
+}
+
+.avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align:center;
+}
+span{
+	color: #fff;
+}
+li{
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+

@@ -24,14 +24,14 @@ body {
 	margin: 0;
 	font-family:verdana;
 	padding:0;
-	background: url(images/pic2.jpg);
+	background: url(images/pic3.jpg);
     background-size: cover;
     background-position: center;
 	 
 }
 
 .container {
-	background-color: #000;
+	background-color: #fff;
 	border-radius: 5px;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 	overflow: hidden;
@@ -78,7 +78,7 @@ body {
 	padding: 10px;
 	width: 100%;
 	background:transparent;
-	color: #fff;
+	color: #000;
 }
 
 .form button {
@@ -109,7 +109,7 @@ body {
 	font-family: verdana;
 	border-bottom:0.2em solid ;
 	display:flex;
-	color: #fff;
+	color: #000;
 
 }
 .right {
@@ -134,19 +134,19 @@ body {
 p{
 margin:0;
 padding:0;
-color: #fff;
+color: #000;
 }
 
 #resumecontainer{
-background-color:black;
+background-color:#fff;
 text-align:left;
 padding:20px;
 margin:20px auto;
 min-width:300px;
 max-width:600px;
 position:relative;
-border-top:5px solid red;
-border-bottom:10px solid red;
+border-top:5px solid rgb(255, 111, 111);
+border-bottom:10px solid rgb(91, 134, 255);
 
 }
 
@@ -158,14 +158,14 @@ max-width:1000px;
 select{
 	width:100%;
 	background:transparent;
-	color:#fff;
+	color:#000;
 }
 
 option{
-	background-color:black;
+	background-color:#000;
 }
  .other{
-	 color:#fff;
+	 color:#000;
  }
 .name1{
 	font-size:25px;
@@ -179,10 +179,10 @@ option{
     text-align:center;
 }
 span{
-	color: #fff;
+	color: #000;
 }
 li{
-	color: #fff;
+	color: #000;
 }
 
 
